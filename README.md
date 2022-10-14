@@ -1,6 +1,4 @@
-# cs
-計算機概論
-##linux指令
+# linux指令
 touch建立檔案
 vi編輯檔案
 ls顯示目錄下的所有檔案
